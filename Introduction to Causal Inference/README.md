@@ -7,3 +7,4 @@
 
 
 ## References
+* Same as the primary text references in main readme.
