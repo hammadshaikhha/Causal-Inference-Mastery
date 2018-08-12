@@ -2,19 +2,23 @@
 This repository will consists of graduate level notes and slides on causal inference. The notes are a consise summary of material covered in popular causal inference textbook and relevant suggestions from research papers.
 
 # Outline
-- Introduction to Causal Inference
+Although the folders are not ordered, the outline below is my recommended ordering of going through these materials.
+
+1. Introduction to Causal Inference
   * POM, ATE, ATT, ATU, and corresponding Identification Assumptions
-- Selection on Observables
-  * CIA, OLS, and Matching
-- Directed Acyclical Graphs (Causal Graphs)
+2. Directed Acyclical Graphs (Causal Graphs)
   * Back door criterion, paths, and collider bias
-- Instrumental Variables
-- Regression Discontinuity
-- Panel Data
-- Differences-in-differences
-- Parameter Identification 
-  * Both point and partial identification are discussed 
-- Additional Material
+3. Selection on Observables
+  * CIA, OLS, and Matching
+4. Parameter Identification 
+  * Definitions and examples for both point and partial identification
+5. Instrumental Variables
+6. Regression Discontinuity
+7. Panel Data
+  * FE and RE
+8. Differences-in-differences
+  * Common trends assumption
+9. Additional Material
   * Notes from causal inference papers and other relevant material
 
 
