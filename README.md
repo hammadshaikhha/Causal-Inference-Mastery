@@ -4,10 +4,18 @@ This repository will consists of graduate level notes and slides on causal infer
 # Outline
 - Introduction to Causal Inference
   * POM, ATE, ATT, ATU, and corresponding Identification Assumptions
+- Selection on Observables
+  * CIA, OLS, and Matching
+- Directed Acyclical Graphs (Causal Graphs)
+  * Back door criterion, paths, and collider bias
+- Instrumental Variables
+- Regression Discontinuity
+- Panel Data
+- Differences-in-differences
 - Parameter Identification 
   * Both point and partial identification are discussed 
 - Additional Material
-  * Estimating Unit Level Causal Effect
+  * Notes from causal inference papers and other relevant material
 
 
 # Primary Text References
@@ -18,3 +26,5 @@ This repository will consists of graduate level notes and slides on causal infer
 - Angrist, J. D., Pischke, J. S. (2008). Mostly Harmless Econometrics: An Empiricist's Companion. Princeton University Press. 
 
 # Primary Paper References
+- Alberto, A. & Matias, C. (2018). Econometric Methods for Program Evaluation. Annual Review of Economics. 
+- Athey, S. & Imbens, G. (2017). State of Econometrics and Policy Evaluation. Journal of Economics Perspectives. 
