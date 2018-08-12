@@ -1,5 +1,5 @@
 # Introduction 
-This repository will consists of graduate level notes and slides on causal inference. The notes are a consise summary of material covered in popular causal inference textbook and relevant suggestions from research papers.
+This repository will consists of graduate level notes on causal inference. The notes are a consise summary of material covered in popular causal inference textbook and relevant research papers related. The outline and associated primary references are listed below.
 
 # Outline
 Although the folders are not ordered, the outline below is my recommended ordering of going through these materials.
@@ -18,7 +18,9 @@ Although the folders are not ordered, the outline below is my recommended orderi
   * FE and RE
 8. Differences-in-differences
   * Common trends assumption
-9. Additional Material
+9. Inference of causal parameters
+  * Fisher's exact test, t-test, and clustered standard errors
+10. Additional Material
   * Notes from causal inference papers and other relevant material
 
 
@@ -32,3 +34,6 @@ Although the folders are not ordered, the outline below is my recommended orderi
 # Primary Paper References
 - Alberto, A. & Matias, C. (2018). Econometric Methods for Program Evaluation. Annual Review of Economics. 
 - Athey, S. & Imbens, G. (2017). State of Econometrics and Policy Evaluation. Journal of Economics Perspectives. 
+
+# Primary Video References
+- Alberto, A., Joshua A., & Walters C. (2017). Cross-Section Econometrics. American Economic Association Webcast.
