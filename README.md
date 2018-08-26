@@ -7,15 +7,17 @@ Although the folders are not ordered, the outline below is my recommended orderi
 1. Introduction to Causal Inference
    * POM, ATE, ATT, ATU, and corresponding Identification Assumptions
 2. Selection on Observables
-  * CIA, OLS, and Matching
+   * CIA, OLS, and Matching
 3. Directed Acyclical Graphs (Causal Graphs)
-  * Back door criterion, paths, and collider bias
+   * Back door criterion, paths, and collider bias
 4. Parameter Identification 
-  * Definitions and examples for both point and partial identification
+   * Definitions and examples for both point and partial identification
 5. Instrumental Variables
+   * IV assumptions, LATE, and experiments without compliance
 6. Regression Discontinuity
+   * RD assumptions, Sharp, Fuzzy, and Kink RD
 7. Panel Data
-  * FE and RE
+  * FE and RE discussion
 8. Differences-in-differences
   * Common trends assumption
 9. Inference of causal parameters
