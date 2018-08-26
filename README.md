@@ -17,13 +17,13 @@ Although the folders are not ordered, the outline below is my recommended orderi
 6. Regression Discontinuity
    * RD assumptions, Sharp, Fuzzy, and Kink RD
 7. Panel Data
-  * FE and RE discussion
+   * FE and RE discussion
 8. Differences-in-differences
-  * Common trends assumption
+   * DD assumptions
 9. Inference of causal parameters
-  * Fisher's exact test, t-test, and clustered standard errors
+   * Fisher's exact test, t-test, and clustered standard errors
 10. Additional Material
-  * Notes from causal inference papers and other relevant material
+   * Notes from causal inference papers and other relevant material
 
 
 # Primary Text References
