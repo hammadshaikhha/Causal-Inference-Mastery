@@ -5,11 +5,11 @@ This repository will consists of graduate level notes on causal inference. The n
 Although the folders are not ordered, the outline below is my recommended ordering of going through these materials.
 
 1. Introduction to Causal Inference
-  * POM, ATE, ATT, ATU, and corresponding Identification Assumptions
-2. Directed Acyclical Graphs (Causal Graphs)
-  * Back door criterion, paths, and collider bias
-3. Selection on Observables
+   * POM, ATE, ATT, ATU, and corresponding Identification Assumptions
+2. Selection on Observables
   * CIA, OLS, and Matching
+3. Directed Acyclical Graphs (Causal Graphs)
+  * Back door criterion, paths, and collider bias
 4. Parameter Identification 
   * Definitions and examples for both point and partial identification
 5. Instrumental Variables
