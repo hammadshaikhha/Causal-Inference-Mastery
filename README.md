@@ -23,7 +23,7 @@ Although the folders are not ordered, the outline below is my recommended orderi
 9. Inference of causal parameters
    * Fisher's exact test, t-test, and clustered standard errors
 10. Additional Material
-   * Notes from causal inference papers and other relevant material
+    * Notes from causal inference papers and other relevant material
 
 
 # Primary Text References
