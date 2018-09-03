@@ -1,6 +1,9 @@
 # Introduction 
 This repository will consists of graduate level notes on causal inference. The notes are a consise summary of material covered in popular causal inference textbook and relevant research papers related. The outline and associated primary references are listed below.
 
+# Contribution Possibilities
+I am currently focusing on making detailed notes on the topics listed in the outline below. In the long run I would hope to have simulation code that illustrate the fundemental theorems and causal inference methods. For example it is well known that under randomized binary treatment the ATE is identified. This can be easily argued using a simulation that could be included under the "Introduction to Causal Inference" folder. Feel free to conduct pull requests for including relevant simulations into this repository (popular languages such as R, Stata, Python or Matlab are all fine for this).   
+
 # Outline
 Although the folders are not ordered, the outline below is my recommended ordering of going through these materials.
 
@@ -22,9 +25,10 @@ Although the folders are not ordered, the outline below is my recommended orderi
    * DD assumptions and DD model extensions
 9. Inference of causal parameters
    * Fisher's exact test, t-test, and clustered standard errors
-10. Additional Material
+10. Empirical Resarch Papers
+   * Notes on papers from good journals that apply the above methods.
+11. Additional Material
     * Notes from causal inference papers and other relevant material
-
 
 # Primary Text References
 - Cunningham, S. (2018). Causal Inference The Mix Tape. 
