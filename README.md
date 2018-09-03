@@ -8,9 +8,9 @@ I am currently focusing on making detailed notes on the topics listed in the out
 Although the folders are not ordered, the outline below is my recommended ordering of going through these materials.
 
 1. Introduction to Causal Inference
-   * POM, ATE, ATT, ATU, and corresponding Identification Assumptions
+   * POM, ATE, ATT, ATU, QTE and corresponding identification assumptions
 2. Selection on Observables
-   * Experiments, CIA, CATE, and Matching
+   * Experiments, CIA, subclassification, matching, and regression
 3. Directed Acyclical Graphs (Causal Graphs)
    * Back door criterion, bad controls, collider bias, and do(.) operator
 4. Parameter Identification 
