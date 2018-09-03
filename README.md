@@ -37,5 +37,9 @@ Although the folders are not ordered, the outline below is my recommended orderi
 - Alberto, A. & Matias, C. (2018). Econometric Methods for Program Evaluation. Annual Review of Economics. 
 - Athey, S. & Imbens, G. (2017). State of Econometrics and Policy Evaluation. Journal of Economics Perspectives. 
 
-# Primary Video References
+# Usefull Lecture Slides
+- [Scott Cunningham (2017). Causal Inference and Research Design.](http://scunning.com/teaching/lectures.pdf)
+- [Teppei Yamamoto (2016). Introduction to Causal Inference.](http://web.mit.edu/teppei/www/teaching/Keio2016/)
+
+# Usefull Video References
 - Alberto, A., Joshua A., & Walters C. (2017). Cross-Section Econometrics. American Economic Association Webcast.
