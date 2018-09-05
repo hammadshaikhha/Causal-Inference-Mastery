@@ -5,15 +5,20 @@ This repository contains notes on seminal research papers that investigate causa
 # Outline
 
 Selection on Observables
-- Dale and Krueger (2002, QJE)
+  * Dale and Krueger (2002, QJE)
+  
 Instrumental Variables
+
 Regression Discontinuity
+
 Panel Data
-- Autor (2003, JoLE)
+  * Autor (2003, JoLE)
+  
 Differences-in-differences
-- Autor (2003, JoLE)
+  * Autor (2003, JoLE)
+  
 Inference of causal parameters
-- Imbens (2003, AER)
+  * Imbens (2003, AER)
 
 # References
 Alberto, A. & Matias, C. (2018). Econometric Methods for Program Evaluation. Annual Review of Economics.
