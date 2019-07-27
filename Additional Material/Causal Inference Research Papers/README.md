@@ -19,6 +19,9 @@ Differences-in-differences
   
 Inference of causal parameters
   * Imbens (2003, AER)
+  
+Directed Acylical Graphs
+  * Imbens (2019, Working Paper)
 
 # References
 Alberto, A. & Matias, C. (2018). Econometric Methods for Program Evaluation. Annual Review of Economics.
